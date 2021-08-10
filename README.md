@@ -8,10 +8,10 @@ All files are build up similar. Due to the size of the data from PICURED, the da
 All files can analayse the data from the three different timepoints by changing the hour variable to 6, 12 or 72.
 All results will be saved in the set ouput folder
 
-CHUNK_PICURED file to process PICURED database
-CHUNK_PICUR_PICE file to process PICURED database and PICE database
-PICE file to process PICE database
-PICE_LABPICURED file to process lab values from PICURED database and PICE
+CHUNK_PICURED file to process PICURED database;
+CHUNK_PICUR_PICE file to process PICURED database and PICE database;
+PICE file to process PICE database;
+PICE_LABPICURED file to process lab values from PICURED database and PICE;
 
 All standard variables and all own functions consists of supporting variables and functions for the other files.
 
